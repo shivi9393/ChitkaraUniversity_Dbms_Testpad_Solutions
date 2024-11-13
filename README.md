@@ -8,4 +8,4 @@ This repository contains the solution for the DBMS Testpad given by Chitkara Uni
 
 ## Instructions for Use:
 - Download the PDF file to view the detailed solutions.
-- Copy paste the solution correctly for 100% result  
+- Dont Try To copy paste the solution directly try them for better understanding of the subject  
